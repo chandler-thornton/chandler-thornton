@@ -2,10 +2,9 @@
 
 #### Computer Engineering Student - Kennesaw State University
 
-- 🚀 My goal is to contribute to groundbreaking advancements in technology.
-- 🌱 I'm an avid learner - Constantly looking for self improvement.
-- 💬 Let's talk about technology, science, movies, or any kind of deep topic.
+Active member of multiple organizations including KSU's Solar Vehicle Team and Sigma Nu Fraternity (Iota Pi).
+A current employee of Perfect Game USA. Actively looking for opportunities to grow and obtain career applicable experience.
 
-##### Java / Visual Studio Code / Arduino / Microsoft Office / Google Suite / Git / GitHub / LATEX / SolidWorks / Rasperry Pi
+##### Skills: Java / Visual Studio Code / Arduino / Microsoft Office / Google Suite / Git / GitHub / LATEX / SolidWorks / Rasperry Pi
 
 
