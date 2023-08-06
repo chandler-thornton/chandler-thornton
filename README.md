@@ -1,10 +1,13 @@
-## Hi there 👋, I'm Chandler
-
 #### Computer Engineering Student - Kennesaw State University
 
-Active member of multiple organizations including KSU's Solar Vehicle Team and Sigma Nu Fraternity (Iota Pi).
-A current employee of Perfect Game USA. Actively looking for opportunities to grow and obtain career applicable experience.
+An active member of multiple on and off campus organizations with proven leadership and team-work ability through the following experiences:
+- Solar Vehicle Team (Programming & Engineering Sub Teams)
+- Sigma Nu Fraternity (Philanthropy & Fundraising Chair)
+- Code Ninjas (Coding Instructor)
+- KSU Winter STEM Camp (Student Mentor)
 
-##### Skills: Java / Visual Studio Code / Arduino / Microsoft Office / Google Suite / Git / GitHub / LATEX / SolidWorks / Rasperry Pi
+Currently searching for an internship for the Summer 2024 in order to build career applicable skills and experiences.
+
+##### Skills: C++ / C / Python / Microcontrollers (ESP32, Raspberry Pi, BeagleBoard) / AutoCAD / LTSpice / Git / Linux
 
 
